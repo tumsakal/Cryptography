@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptography", "Cryptography\Cryptography.csproj", "{CA94526F-6BDC-44DE-B81F-48B693A4FB61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GryptoCore", "GryptoCore\GryptoCore.csproj", "{AF89D752-08F7-4148-AD77-9DF99A727966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO", "FileIO\FileIO.csproj", "{36841B50-3AF1-4FB5-AAEF-516943BE566B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{BCA65CC1-3C4A-4136-9CC9-0565C983ED29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA94526F-6BDC-44DE-B81F-48B693A4FB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA94526F-6BDC-44DE-B81F-48B693A4FB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA94526F-6BDC-44DE-B81F-48B693A4FB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA94526F-6BDC-44DE-B81F-48B693A4FB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF89D752-08F7-4148-AD77-9DF99A727966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF89D752-08F7-4148-AD77-9DF99A727966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF89D752-08F7-4148-AD77-9DF99A727966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF89D752-08F7-4148-AD77-9DF99A727966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36841B50-3AF1-4FB5-AAEF-516943BE566B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36841B50-3AF1-4FB5-AAEF-516943BE566B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36841B50-3AF1-4FB5-AAEF-516943BE566B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36841B50-3AF1-4FB5-AAEF-516943BE566B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA65CC1-3C4A-4136-9CC9-0565C983ED29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA65CC1-3C4A-4136-9CC9-0565C983ED29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA65CC1-3C4A-4136-9CC9-0565C983ED29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA65CC1-3C4A-4136-9CC9-0565C983ED29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
